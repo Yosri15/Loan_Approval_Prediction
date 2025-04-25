@@ -14,7 +14,7 @@ Ce projet vise à :
 - **Score AUC final** : 0.85
 
 ## 🗂️ Dataset
-- **Source** : [Nom/URL du dataset original]
+- **Source** : https://www.kaggle.com/competitions/playground-series-s4e10/data
 - **Features clés** :
   - `loan_amnt` : Montant du prêt
   - `loan_int_rate` : Taux d'intérêt
